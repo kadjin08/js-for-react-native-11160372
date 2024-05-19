@@ -1,5 +1,5 @@
 # js-for-react-native-11160372
-Name: Ayitey-Adjin Carl
+Name: Ayitey-Adjin Karl
 This is a javascript program that allows you to input any numbers of your choice and returns a specific result to determine if it is even or odd. The program is divided into three tasks and each task performs its own function. 
 
 firstly, a function is called and it returns an array.. It uses a prompt to ask users to input any numbers of their choice. An even number is squared and an odd number is tripled. The function uses 'readlineSync'
